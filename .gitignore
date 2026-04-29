@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+.env
+node_modules/
+dist/
+.env.local
+.env.*.local
+*.key
+*.pem
+*_secret*
+credentials.json
